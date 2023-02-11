@@ -21,8 +21,8 @@ import pandas as pd
 
 baseurls = ['https://e4ftl01.cr.usgs.gov/MOLT/MOD13A2.006/']
 
-year = '2020'
-hv_tile = 'h28v05'
+year = '2019'
+hv_tile ='h28v05'
 
 def getLinks(url):
    

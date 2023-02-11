@@ -20,6 +20,7 @@ for i in range(0, len(subdatasets)+1):
 
     else:
         band_array = band_ds.ReadAsArray()
+
     out_ds = gdal.GetDriverByName('GTiff').Create(band_path,
                                                   band_ds.RasterXSize,
                                                   band_ds.RasterYSize,

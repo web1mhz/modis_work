@@ -1,0 +1,202 @@
+<PAMDataset>
+  <Subdataset name="MODIS_Grid_16DAY_1km_VI:1 km 16 days NDVI">
+    <PAMDataset>
+      <Metadata>
+        <MDI key="add_offset">0</MDI>
+        <MDI key="add_offset_err">0</MDI>
+        <MDI key="ALGORITHMPACKAGEACCEPTANCEDATE">102004</MDI>
+        <MDI key="ALGORITHMPACKAGEMATURITYCODE">Normal</MDI>
+        <MDI key="ALGORITHMPACKAGENAME">MOD_PR13A1</MDI>
+        <MDI key="ALGORITHMPACKAGEVERSION">6</MDI>
+        <MDI key="ASSOCIATEDINSTRUMENTSHORTNAME.1">MODIS</MDI>
+        <MDI key="ASSOCIATEDPLATFORMSHORTNAME.1">Terra</MDI>
+        <MDI key="ASSOCIATEDSENSORSHORTNAME.1">MODIS</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.1">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.10">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.11">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.12">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.2">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.3">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.4">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.5">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.6">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.7">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.8">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAG.9">Passed</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.1">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.10">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.11">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.12">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.2">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.3">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.4">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.5">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.6">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.7">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.8">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="AUTOMATICQUALITYFLAGEXPLANATION.9">No automatic quality assessment is performed in the PGE</MDI>
+        <MDI key="calibrated_nt">5</MDI>
+        <MDI key="CHARACTERISTICBINANGULARSIZE">30.0</MDI>
+        <MDI key="CHARACTERISTICBINSIZE">926.625433055556</MDI>
+        <MDI key="DATACOLUMNS">1200</MDI>
+        <MDI key="DATAROWS">1200</MDI>
+        <MDI key="DAYNIGHTFLAG">Day</MDI>
+        <MDI key="DAYSOFYEAR">1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16</MDI>
+        <MDI key="DAYSPROCESSED">2022001, 2022002, 2022003, 2022004, 2022005, 2022006, 2022007, 2022008, 2022009, 2022010, 2022011, 2022012, 2022013, 2022014, 2022015, 2022016</MDI>
+        <MDI key="DESCRREVISION">6.1</MDI>
+        <MDI key="EASTBOUNDINGCOORDINATE">143.605680200178</MDI>
+        <MDI key="EVI1KM16DAYQCLASSPERCENTAGE">9</MDI>
+        <MDI key="EXCLUSIONGRINGFLAG.1">N</MDI>
+        <MDI key="GEOANYABNORMAL">False</MDI>
+        <MDI key="GEOESTMAXRMSERROR">50.0</MDI>
+        <MDI key="GLOBALGRIDCOLUMNS">43200</MDI>
+        <MDI key="GLOBALGRIDROWS">21600</MDI>
+        <MDI key="GRINGPOINTLATITUDE.1">29.9120286077015, 40.0963659160409, 39.9980314725989, 29.8240282821481</MDI>
+        <MDI key="GRINGPOINTLONGITUDE.1">115.279770612558, 130.479894464731, 143.625483713722, 126.92618645292</MDI>
+        <MDI key="GRINGPOINTSEQUENCENO.1">1, 2, 3, 4</MDI>
+        <MDI key="HDFEOSVersion">HDFEOS_V2.19</MDI>
+        <MDI key="HORIZONTALTILENUMBER">28</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD13A2.006</MDI>
+        <MDI key="identifier_product_doi">10.5067/MODIS/MOD13A2.006</MDI>
+        <MDI key="identifier_product_doi_authority">http://dx.doi.org</MDI>
+        <MDI key="identifier_product_doi_authority">http://dx.doi.org</MDI>
+        <MDI key="INPUTFILENAME">MOD09A1.A2022001.h28v05.006.2022010042853.hdf, MOD09A1.A2022009.h28v05.006.2022018215133.hdf</MDI>
+        <MDI key="INPUTPOINTER">MOD09A1.A2022001.h28v05.006.2022010042853.hdf, MOD09A1.A2022009.h28v05.006.2022018215133.hdf</MDI>
+        <MDI key="INPUTPRODUCTRESOLUTION">Product input resolution 500m</MDI>
+        <MDI key="INSTRUMENTNAME">Moderate-Resolution Imaging SpectroRadiometer</MDI>
+        <MDI key="LOCALGRANULEID">MOD13A2.A2022001.h28v05.006.2022018181719.hdf</MDI>
+        <MDI key="LOCALVERSIONID">6.0.0</MDI>
+        <MDI key="LONGNAME">MODIS/Terra Vegetation Indices 16-Day L3 Global 1km SIN Grid</MDI>
+        <MDI key="long_name">1 km 16 days NDVI</MDI>
+        <MDI key="NDVI1KM16DAYQCLASSPERCENTAGE">9</MDI>
+        <MDI key="NORTHBOUNDINGCOORDINATE">39.9999999964079</MDI>
+        <MDI key="NUMBEROFDAYS">16</MDI>
+        <MDI key="PARAMETERNAME.1">1 km 16 days NDVI</MDI>
+        <MDI key="PARAMETERNAME.10">1 km 16 days relative azimuth angle</MDI>
+        <MDI key="PARAMETERNAME.11">1 km 16 days composite day of the year</MDI>
+        <MDI key="PARAMETERNAME.12">1 km 16 days pixel reliability</MDI>
+        <MDI key="PARAMETERNAME.2">1 km 16 days EVI</MDI>
+        <MDI key="PARAMETERNAME.3">1 km 16 days VI Quality</MDI>
+        <MDI key="PARAMETERNAME.4">1 km 16 days red reflectance</MDI>
+        <MDI key="PARAMETERNAME.5">1 km 16 days NIR reflectance</MDI>
+        <MDI key="PARAMETERNAME.6">1 km 16 days blue reflectance</MDI>
+        <MDI key="PARAMETERNAME.7">1 km 16 days MIR reflectance</MDI>
+        <MDI key="PARAMETERNAME.8">1 km 16 days view zenith angle</MDI>
+        <MDI key="PARAMETERNAME.9">1 km 16 days sun zenith angle</MDI>
+        <MDI key="PERCENTLAND">27</MDI>
+        <MDI key="PGEVERSION">6.0.23</MDI>
+        <MDI key="PROCESSINGCENTER">MODAPS</MDI>
+        <MDI key="PROCESSINGENVIRONMENT">Linux minion7043 3.10.0-1160.49.1.el7.x86_64 #1 SMP Tue Nov 30 15:51:32 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux</MDI>
+        <MDI key="PRODUCTIONDATETIME">2022-01-18T23:17:19.000Z</MDI>
+        <MDI key="PRODUCTIONTYPE">Regular Production [1-16,17-32,33-48,...353-2/3]</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.1">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.10">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.11">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.12">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.2">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.3">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.4">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.5">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.6">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.7">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.8">9</MDI>
+        <MDI key="QAPERCENTCLOUDCOVER.9">9</MDI>
+        <MDI key="QAPERCENTGOODQUALITY">31</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.1">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.10">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.11">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.12">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.2">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.3">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.4">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.5">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.6">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.7">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.8">99</MDI>
+        <MDI key="QAPERCENTINTERPOLATEDDATA.9">99</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.1">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.10">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.11">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.12">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.2">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.3">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.4">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.5">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.6">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.7">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.8">1</MDI>
+        <MDI key="QAPERCENTMISSINGDATA.9">1</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDCLOUD">9</MDI>
+        <MDI key="QAPERCENTNOTPRODUCEDOTHER">1</MDI>
+        <MDI key="QAPERCENTOTHERQUALITY">59</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.1">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.10">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.11">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.12">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.2">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.3">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.4">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.5">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.6">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.7">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.8">0</MDI>
+        <MDI key="QAPERCENTOUTOFBOUNDSDATA.9">0</MDI>
+        <MDI key="QAPERCENTPOORQ1KM16DAYEVI">9, 29, 12, 18, 18, 7, 3, 2, 1, 0, 0, 0, 0, 0, 0, 1</MDI>
+        <MDI key="QAPERCENTPOORQ1KM16DAYNDVI">9, 29, 12, 18, 18, 7, 3, 2, 1, 0, 0, 0, 0, 0, 0, 1</MDI>
+        <MDI key="QA_STRUCTURE_STYLE">C5 or later</MDI>
+        <MDI key="RANGEBEGINNINGDATE">2022-01-01</MDI>
+        <MDI key="RANGEBEGINNINGTIME">00:00:00</MDI>
+        <MDI key="RANGEENDINGDATE">2022-01-16</MDI>
+        <MDI key="RANGEENDINGTIME">23:59:59</MDI>
+        <MDI key="REPROCESSINGACTUAL">reprocessed</MDI>
+        <MDI key="REPROCESSINGPLANNED">further update is anticipated</MDI>
+        <MDI key="scale_factor">10000</MDI>
+        <MDI key="scale_factor_err">0</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.1">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.10">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.11">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.12">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.2">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.3">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.4">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.5">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.6">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.7">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.8">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAG.9">Not Investigated</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.1">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.10">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.11">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.12">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.2">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.3">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.4">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.5">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.6">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.7">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.8">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SCIENCEQUALITYFLAGEXPLANATION.9">See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.</MDI>
+        <MDI key="SHORTNAME">MOD13A2</MDI>
+        <MDI key="SOUTHBOUNDINGCOORDINATE">29.9999999973059</MDI>
+        <MDI key="SPSOPARAMETERS">2749, 4334, 2749a, 4334a</MDI>
+        <MDI key="TileID">51028005</MDI>
+        <MDI key="units">NDVI</MDI>
+        <MDI key="valid_range">-2000, 10000</MDI>
+        <MDI key="VERSIONID">6</MDI>
+        <MDI key="VERTICALTILENUMBER">05</MDI>
+        <MDI key="WESTBOUNDINGCOORDINATE">115.470053824421</MDI>
+        <MDI key="_FillValue">-3000</MDI>
+      </Metadata>
+      <PAMRasterBand band="1">
+        <Description>1 km 16 days NDVI</Description>
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">10000</MDI>
+          <MDI key="STATISTICS_MEAN">4190.7430614203</MDI>
+          <MDI key="STATISTICS_MINIMUM">-2000</MDI>
+          <MDI key="STATISTICS_STDDEV">2035.7260977223</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">26.48</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>

@@ -46,4 +46,11 @@
     border: 0;
     background-color: aquamarine;
     box-shadow: 0 2px 5px;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+.input-box button:hover{
+
+    transform: scale(1.1);
 }

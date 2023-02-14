@@ -1,4 +1,6 @@
 ﻿
+# MODIS 자료 리스트 만들기
+
 
 from datetime import datetime, date, timedelta
 from lxml import etree
@@ -17,7 +19,12 @@ import pandas as pd
 #             'https://n5eil01u.ecs.nsidc.org/SMAP/SPL3SMP.007/']
 
 # MOD15A2H - fpar/LAI 데이터 - MCD15A2H MODIS/Terra+Aqua Leaf Area Index/FPAR 8-day L4 Global 500m SIN Grid V061.
-baseurls =['https://e4ftl01.cr.usgs.gov/MOTA/MCD15A2H.061/']
+# baseurls = ['https://e4ftl01.cr.usgs.gov/MOTA/MCD15A2H.061/']
+
+# baseurls = ["https://e4ftl01.cr.usgs.gov/MOLA/MYD13C1.006/"]
+
+# modis landcover
+baseurls = ["https://e4ftl01.cr.usgs.gov/MOTA/MCD12Q1.061/"]
 
 
 # MOD17A3HGF - NPP 데이터
@@ -26,9 +33,9 @@ baseurls =['https://e4ftl01.cr.usgs.gov/MOTA/MCD15A2H.061/']
 # MOD13A2 - NDVI 데이터 - Vegetation Indices 16-Day L3 Global 1km
 # baseurls = ['https://e4ftl01.cr.usgs.gov/MOLT/MOD13A2.061/']
 
-year = '2022'
+year = '2021'
 hv_tile = 'h28v05'
-modis_product = 'fpar_LAI'
+modis_product = 'MCD12Q1'
 
 
 def getLinks(url):

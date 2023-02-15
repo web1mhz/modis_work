@@ -33,7 +33,7 @@ lc_labels = {1: "Evergreen Needleleaf forest",
 # Time axis
 doys = np.arange(1, 365, 8)
 
-t_axis = np.array([730486. + doys + 365*i for i in xrange(10)]).flatten()
+t_axis = np.array([730486. + doys + 365*i for i in range(10)]).flatten()
 
 iplot = 1
 # Loop over landcover types

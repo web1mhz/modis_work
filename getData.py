@@ -1,5 +1,6 @@
 ﻿
 # MODIS 자료 리스트 만들기
+# 집: 콘다 가상환경 : tg38
 
 
 from datetime import datetime, date, timedelta

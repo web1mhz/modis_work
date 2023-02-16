@@ -1,0 +1,22 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Land_Cover_Type_1</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0.5294117647058824</HistMin>
+        <HistMax>17.47058823529412</HistMax>
+        <BucketCount>17</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>37778|25525|315|247887|228145|216|0|186056|142936|42864|31132|308586|154014|73285|6|1188|4280067</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">17</MDI>
+      <MDI key="STATISTICS_MEAN">14.805685243056</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_STDDEV">4.1831472324422</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

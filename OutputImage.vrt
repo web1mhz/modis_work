@@ -1,0 +1,280 @@
+<VRTDataset rasterXSize="4502" rasterYSize="1601">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>  1.1547005382442435e+02,  6.2476731277332402e-03,  0.0000000000000000e+00,  3.9999999996410878e+01,  0.0000000000000000e+00, -6.2476731277332402e-03</GeoTransform>
+  <VRTRasterBand dataType="Int16" band="1">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020001.h28v05.006.2020018002214.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="2">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020017.h28v05.006.2020034152142.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="3">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020033.h28v05.006.2020050022540.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="4">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020049.h28v05.006.2020066002645.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="5">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020065.h28v05.006.2020082012601.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="6">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020081.h28v05.006.2020100130036.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="7">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020097.h28v05.006.2020114013221.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="8">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020113.h28v05.006.2020130015215.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="9">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020129.h28v05.006.2020145234452.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="10">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020145.h28v05.006.2020162015118.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="11">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020161.h28v05.006.2020178013358.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="12">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020177.h28v05.006.2020196233554.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="13">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020193.h28v05.006.2020210005535.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="14">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020209.h28v05.006.2020226012324.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="15">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020225.h28v05.006.2020241232627.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="16">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020241.h28v05.006.2020261221326.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="17">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020257.h28v05.006.2020280044533.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="18">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020273.h28v05.006.2020291080139.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="19">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020289.h28v05.006.2020306010322.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="20">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020305.h28v05.006.2020321232937.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="21">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020321.h28v05.006.2020338061625.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="22">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020337.h28v05.006.2020358170554.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int16" band="23">
+    <NoDataValue>-3000</NoDataValue>
+    <Scale>10000</Scale>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="0">C:\Users\TETRA\Desktop\modis_work\tif_file\NDVI\A2020\MOD13A2.A2020353.h28v05.006.2021003230350.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="4502" RasterYSize="1601" DataType="Int16" BlockXSize="4502" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <DstRect xOff="0" yOff="0" xSize="4502" ySize="1601" />
+      <NODATA>-3000</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>

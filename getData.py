@@ -21,7 +21,7 @@ import pandas as pd
 # MOD15A2H - fpar/LAI 데이터 - MCD15A2H MODIS/Terra+Aqua Leaf Area Index/FPAR 8-day L4 Global 500m SIN Grid V061.
 # baseurls = ['https://e4ftl01.cr.usgs.gov/MOTA/MCD15A2H.061/']
 
-# baseurls = ["https://e4ftl01.cr.usgs.gov/MOLA/MYD13C1.006/"]
+# baseurls = ["https://e4ftl01.cr.usgs.gov/MOLA/MYD13C1.061/"]
 
 # modis landcover
 # baseurls = ["https://e4ftl01.cr.usgs.gov/MOTA/MCD12Q1.061/"]

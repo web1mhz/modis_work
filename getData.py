@@ -18,14 +18,21 @@ import pandas as pd
 #             'https://e4ftl01.cr.usgs.gov/MOLT/MOD13C1.006/',
 #             'https://n5eil01u.ecs.nsidc.org/SMAP/SPL3SMP.007/']
 
+
+# GPM: Monthly Global Precipitation Measurement (GPM) v6
+# baseurls = 'https://gpm1.gesdisc.eosdis.nasa.gov/data/GPM_L3/GPM_3IMERGM.06/'
+
+# SMAP Enhanced L3 Radiometer Global Daily 9 km EASE-Grid Soil Moisture, Version 4 (SPL3SMP_E)
+# baseurls ='https://n5eil01u.ecs.nsidc.org/SMAP/SPL3SMP.007/'
+
 # MOD15A2H - fpar/LAI 데이터 - MCD15A2H MODIS/Terra+Aqua Leaf Area Index/FPAR 8-day L4 Global 500m SIN Grid V061.
 # baseurls = ['https://e4ftl01.cr.usgs.gov/MOTA/MCD15A2H.061/']
 
+# MYD13C1 - MODIS/Aqua Vegetation Indices 16-Day L3 Global 0.05Deg CMG
 # baseurls = ["https://e4ftl01.cr.usgs.gov/MOLA/MYD13C1.061/"]
 
 # modis landcover
 # baseurls = ["https://e4ftl01.cr.usgs.gov/MOTA/MCD12Q1.061/"]
-
 
 # MOD17A3HGF - NPP 데이터
 # baseurls = ['https://e4ftl01.cr.usgs.gov/MOLT/MOD17A3HGF.061/']

@@ -13,7 +13,7 @@ from osgeo import gdal
 
 plt.ion()
 # Read in the landcover data
-g = gdal.Open("modis_lc1.tif")
+g = gdal.Open("IGBP.tif")
 
 lc = g.ReadAsArray()
 # The different landcover types we are interested in
@@ -37,7 +37,7 @@ t_axis = np.array([730486. + doys + 365*i for i in range(10)]).flatten()
 
 iplot = 1
 # Loop over landcover types
-for (class_no, class_label) in lc_labels.iteritems():
+for (class_no, class_label) in lc_labels.items():
     # The landcover filter for this class is calculated now.
     passer_lc = (lc == class_no)
     print(class_label)
@@ -67,6 +67,9 @@ for (class_no, class_label) in lc_labels.iteritems():
             # Calculate means and standard deviations
             mean_gpp.append(work.mean())
             std_gpp.append(work.std())
+
+
+            
     # At the end of all years, do some plotting
     plt.fill_between(t_axis, np.array(mean_gpp) -
                      np.array(std_gpp), np.array(mean_gpp) + np.array(std_gpp),
